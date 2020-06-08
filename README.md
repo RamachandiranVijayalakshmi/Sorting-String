@@ -11,6 +11,6 @@ ceeLMoW
 sorting characters giving precedence to lowercase letters:
 ecoeWLM
 ```
-## explatnation
+## explanation
 - [ceeLMoW] its combination of sorting the string.
 - [ecoeWLM] its arrange the lowercase and uppercase for the userinput
